@@ -1,4 +1,4 @@
-# Steps To Build a Project
+## Steps To Build a Project
 
 1. Determine project goal
 2. Determine target audience
@@ -7,3 +7,9 @@
 5. Design the UI/UX
 6. Build core app feature
 7. Test
+
+## Tools
+
+* Command line
+* Version Control Systems
+* Package Managers

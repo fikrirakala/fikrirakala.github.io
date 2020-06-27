@@ -1,0 +1,22 @@
+body {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+li {
+    font-size: 20px;
+    line-height: 1.5;
+}
+
+ul > li {
+    color: #444;
+}
+
+a  {
+    color: #0366d6;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
